@@ -1,3 +1,7 @@
+/*
+strlen(string_name) -> Returns the length of the string	
+proto type: size_t strlen(const char *str);	
+*/
 #include <stdio.h>
 
 size_t my_strlen(const char *str) 
